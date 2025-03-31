@@ -19,6 +19,7 @@ The module instances on the right in the screenshot show some optional
 additional display options. Please see the list of supported configuration
 options below for all available options.
 
+For a map to search the "TPC" search here for the "bushaltenummer": https://halteviewer.ov-data.nl/
 
 # Installation
 Navigate into your MagicMirror's `modules` folder and execute
